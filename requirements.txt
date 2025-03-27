@@ -1,0 +1,7 @@
+notebook
+spacy
+transformers
+torch
+pandas
+matplotlib
+seaborn
